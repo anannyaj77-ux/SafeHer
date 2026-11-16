@@ -1,0 +1,343 @@
+name,type,state,city,area,latitude,longitude,phone,is_synthetic
+Visakhapatnam Central Police Station,Police Station,Andhra Pradesh,Visakhapatnam,Gajuwaka,17.698268,83.21069,Emergency: 112 / State: 112 / 181 / 1091,True
+Visakhapatnam District Civil Hospital,Hospital,Andhra Pradesh,Visakhapatnam,Madhurawada,17.679707,83.203747,Emergency: 112 / Ambulance: 108,True
+Visakhapatnam Sakhi One Stop Centre,Women Help Centre,Andhra Pradesh,Visakhapatnam,Siripuram,17.688404,83.225716,Helpline: 181 / Women Helpline,True
+Vijayawada Central Police Station,Police Station,Andhra Pradesh,Vijayawada,Benz Circle,16.509126,80.651639,Emergency: 112 / State: 112 / 181 / 1091,True
+Vijayawada District Civil Hospital,Hospital,Andhra Pradesh,Vijayawada,Governorpet,16.49319,80.654444,Emergency: 112 / Ambulance: 108,True
+Vijayawada Sakhi One Stop Centre,Women Help Centre,Andhra Pradesh,Vijayawada,Gandhinagar,16.50438,80.647474,Helpline: 181 / Women Helpline,True
+Guntur Central Police Station,Police Station,Andhra Pradesh,Guntur,Arundelpet,16.30874,80.447909,Emergency: 112 / State: 112 / 181 / 1091,True
+Guntur District Civil Hospital,Hospital,Andhra Pradesh,Guntur,Brodipet,16.314145,80.442018,Emergency: 112 / Ambulance: 108,True
+Guntur Sakhi One Stop Centre,Women Help Centre,Andhra Pradesh,Guntur,Vidyanagar,16.305338,80.427189,Helpline: 181 / Women Helpline,True
+Tirupati Central Police Station,Police Station,Andhra Pradesh,Tirupati,Alipiri,13.629728,79.423061,Emergency: 112 / State: 112 / 181 / 1091,True
+Tirupati District Civil Hospital,Hospital,Andhra Pradesh,Tirupati,Bhavani Nagar,13.634926,79.422436,Emergency: 112 / Ambulance: 108,True
+Tirupati Sakhi One Stop Centre,Women Help Centre,Andhra Pradesh,Tirupati,Renigunta,13.624807,79.413621,Helpline: 181 / Women Helpline,True
+Kurnool Central Police Station,Police Station,Andhra Pradesh,Kurnool,Nandyal Checkpost,15.818262,78.042168,Emergency: 112 / State: 112 / 181 / 1091,True
+Kurnool District Civil Hospital,Hospital,Andhra Pradesh,Kurnool,Budhawara Peta,15.842224,78.038051,Emergency: 112 / Ambulance: 108,True
+Kurnool Sakhi One Stop Centre,Women Help Centre,Andhra Pradesh,Kurnool,Gayathri Estate,15.831564,78.041152,Helpline: 181 / Women Helpline,True
+Itanagar Central Police Station,Police Station,Arunachal Pradesh,Itanagar,Ganga Market,27.076275,93.597903,Emergency: 112 / State: 112 / 181,True
+Itanagar District Civil Hospital,Hospital,Arunachal Pradesh,Itanagar,Bank Tinali,27.075645,93.618285,Emergency: 112 / Ambulance: 108,True
+Itanagar Sakhi One Stop Centre,Women Help Centre,Arunachal Pradesh,Itanagar,Chimpu,27.074712,93.606123,Helpline: 181 / Women Helpline,True
+Tawang Central Police Station,Police Station,Arunachal Pradesh,Tawang,Old Market,27.583152,91.863224,Emergency: 112 / State: 112 / 181,True
+Tawang District Civil Hospital,Hospital,Arunachal Pradesh,Tawang,Monastery Road,27.577715,91.873235,Emergency: 112 / Ambulance: 108,True
+Tawang Sakhi One Stop Centre,Women Help Centre,Arunachal Pradesh,Tawang,Cona Area,27.582724,91.867919,Helpline: 181 / Women Helpline,True
+Pasighat Central Police Station,Police Station,Arunachal Pradesh,Pasighat,Main Bazaar,28.068141,95.324647,Emergency: 112 / State: 112 / 181,True
+Pasighat District Civil Hospital,Hospital,Arunachal Pradesh,Pasighat,Mirku,28.073017,95.328292,Emergency: 112 / Ambulance: 108,True
+Pasighat Sakhi One Stop Centre,Women Help Centre,Arunachal Pradesh,Pasighat,Medical Colony,28.058772,95.33079,Helpline: 181 / Women Helpline,True
+Guwahati Central Police Station,Police Station,Assam,Guwahati,Paltan Bazaar,26.146408,91.737775,Emergency: 112 / State: 112 / 181 / 1091,True
+Guwahati District Civil Hospital,Hospital,Assam,Guwahati,Dispur,26.151644,91.740804,Emergency: 112 / Ambulance: 108,True
+Guwahati Sakhi One Stop Centre,Women Help Centre,Assam,Guwahati,Beltola,26.141825,91.73257,Helpline: 181 / Women Helpline,True
+Silchar Central Police Station,Police Station,Assam,Silchar,Tarapur,24.82732,92.780703,Emergency: 112 / State: 112 / 181 / 1091,True
+Silchar District Civil Hospital,Hospital,Assam,Silchar,Rangirkhari,24.827297,92.767513,Emergency: 112 / Ambulance: 108,True
+Silchar Sakhi One Stop Centre,Women Help Centre,Assam,Silchar,Sadarghat,24.838954,92.773083,Helpline: 181 / Women Helpline,True
+Dibrugarh Central Police Station,Police Station,Assam,Dibrugarh,Thana Chariali,27.464757,94.920376,Emergency: 112 / State: 112 / 181 / 1091,True
+Dibrugarh District Civil Hospital,Hospital,Assam,Dibrugarh,Amolapatty,27.478864,94.919985,Emergency: 112 / Ambulance: 108,True
+Dibrugarh Sakhi One Stop Centre,Women Help Centre,Assam,Dibrugarh,Graham Bazaar,27.469807,94.914349,Helpline: 181 / Women Helpline,True
+Jorhat Central Police Station,Police Station,Assam,Jorhat,Gar-Ali,26.761273,94.198485,Emergency: 112 / State: 112 / 181 / 1091,True
+Jorhat District Civil Hospital,Hospital,Assam,Jorhat,Na-Ali,26.737969,94.193826,Emergency: 112 / Ambulance: 108,True
+Jorhat Sakhi One Stop Centre,Women Help Centre,Assam,Jorhat,Choladhora,26.758849,94.199331,Helpline: 181 / Women Helpline,True
+Patna Central Police Station,Police Station,Bihar,Patna,Boring Road,25.59389,85.13843,Emergency: 112 / State: 112 / 181,True
+Patna District Civil Hospital,Hospital,Bihar,Patna,Kankarbagh,25.6079,85.131644,Emergency: 112 / Ambulance: 108,True
+Patna Sakhi One Stop Centre,Women Help Centre,Bihar,Patna,Danapur,25.594528,85.146762,Helpline: 181 / Women Helpline,True
+Gaya Central Police Station,Police Station,Bihar,Gaya,Civil Lines,24.784232,85.002549,Emergency: 112 / State: 112 / 181,True
+Gaya District Civil Hospital,Hospital,Bihar,Gaya,Bodh Gaya Road,24.778308,84.993089,Emergency: 112 / Ambulance: 108,True
+Gaya Sakhi One Stop Centre,Women Help Centre,Bihar,Gaya,Rampur,24.782784,84.996803,Helpline: 181 / Women Helpline,True
+Muzaffarpur Central Police Station,Police Station,Bihar,Muzaffarpur,Motijheel,26.113854,85.371862,Emergency: 112 / State: 112 / 181,True
+Muzaffarpur District Civil Hospital,Hospital,Bihar,Muzaffarpur,Mithanpura,26.119802,85.36185,Emergency: 112 / Ambulance: 108,True
+Muzaffarpur Sakhi One Stop Centre,Women Help Centre,Bihar,Muzaffarpur,Aghoria Bazaar,26.124746,85.373644,Helpline: 181 / Women Helpline,True
+Bhagalpur Central Police Station,Police Station,Bihar,Bhagalpur,Tilka Manjhi,25.237737,86.973802,Emergency: 112 / State: 112 / 181,True
+Bhagalpur District Civil Hospital,Hospital,Bihar,Bhagalpur,Zero Mile,25.230793,86.994916,Emergency: 112 / Ambulance: 108,True
+Bhagalpur Sakhi One Stop Centre,Women Help Centre,Bihar,Bhagalpur,Khanjarpur,25.249417,86.983707,Helpline: 181 / Women Helpline,True
+Raipur Central Police Station,Police Station,Chhattisgarh,Raipur,Pandri,21.242943,81.630236,Emergency: 112 / State: 112 / 181,True
+Raipur District Civil Hospital,Hospital,Chhattisgarh,Raipur,Telibandha,21.256453,81.624567,Emergency: 112 / Ambulance: 108,True
+Raipur Sakhi One Stop Centre,Women Help Centre,Chhattisgarh,Raipur,Jaistambh Chowk,21.24305,81.626039,Helpline: 181 / Women Helpline,True
+Bhilai Central Police Station,Police Station,Chhattisgarh,Bhilai,Civic Centre,21.198374,81.362381,Emergency: 112 / State: 112 / 181,True
+Bhilai District Civil Hospital,Hospital,Chhattisgarh,Bhilai,Sector 6,21.184503,81.363337,Emergency: 112 / Ambulance: 108,True
+Bhilai Sakhi One Stop Centre,Women Help Centre,Chhattisgarh,Bhilai,Supela,21.192932,81.354164,Helpline: 181 / Women Helpline,True
+Bilaspur Central Police Station,Police Station,Chhattisgarh,Bilaspur,Vyapar Vihar,22.088429,82.142279,Emergency: 112 / State: 112 / 181,True
+Bilaspur District Civil Hospital,Hospital,Chhattisgarh,Bilaspur,Civil Lines,22.066544,82.133873,Emergency: 112 / Ambulance: 108,True
+Bilaspur Sakhi One Stop Centre,Women Help Centre,Chhattisgarh,Bilaspur,Mangla,22.085758,82.141958,Helpline: 181 / Women Helpline,True
+Panaji Central Police Station,Police Station,Goa,Panaji,Miramar,15.486798,73.829799,Emergency: 112 / State: 112 / 1091 / 181,True
+Panaji District Civil Hospital,Hospital,Goa,Panaji,Fontainhas,15.483957,73.82003,Emergency: 112 / Ambulance: 108,True
+Panaji Sakhi One Stop Centre,Women Help Centre,Goa,Panaji,Patto Centre,15.497468,73.825801,Helpline: 181 / Women Helpline,True
+Margao Central Police Station,Police Station,Goa,Margao,Comba,15.277776,73.98402,Emergency: 112 / State: 112 / 1091 / 181,True
+Margao District Civil Hospital,Hospital,Goa,Margao,Aquem,15.295819,73.976624,Emergency: 112 / Ambulance: 108,True
+Margao Sakhi One Stop Centre,Women Help Centre,Goa,Margao,Pajifond,15.276905,73.983275,Helpline: 181 / Women Helpline,True
+Vasco da Gama Central Police Station,Police Station,Goa,Vasco da Gama,Chicalim,15.387651,73.801098,Emergency: 112 / State: 112 / 1091 / 181,True
+Vasco da Gama District Civil Hospital,Hospital,Goa,Vasco da Gama,Dabolim,15.383529,73.800686,Emergency: 112 / Ambulance: 108,True
+Vasco da Gama Sakhi One Stop Centre,Women Help Centre,Goa,Vasco da Gama,Mormugao,15.401008,73.805229,Helpline: 181 / Women Helpline,True
+Mapusa Central Police Station,Police Station,Goa,Mapusa,Market Area,15.590767,73.819134,Emergency: 112 / State: 112 / 1091 / 181,True
+Mapusa District Civil Hospital,Hospital,Goa,Mapusa,Feira Alta,15.579655,73.805472,Emergency: 112 / Ambulance: 108,True
+Mapusa Sakhi One Stop Centre,Women Help Centre,Goa,Mapusa,Khorlim,15.603618,73.816139,Helpline: 181 / Women Helpline,True
+Ahmedabad Central Police Station,Police Station,Gujarat,Ahmedabad,Navrangpura,23.02634,72.571785,Emergency: 112 / State: 112 / 181 Abhayam,True
+Ahmedabad District Civil Hospital,Hospital,Gujarat,Ahmedabad,SG Highway,23.036477,72.560729,Emergency: 112 / Ambulance: 108,True
+Ahmedabad Sakhi One Stop Centre,Women Help Centre,Gujarat,Ahmedabad,Bopal,23.013847,72.577723,Helpline: 181 / Women Helpline,True
+Surat Central Police Station,Police Station,Gujarat,Surat,Adajan,21.158298,72.832577,Emergency: 112 / State: 112 / 181 Abhayam,True
+Surat District Civil Hospital,Hospital,Gujarat,Surat,Vesu,21.155242,72.826547,Emergency: 112 / Ambulance: 108,True
+Surat Sakhi One Stop Centre,Women Help Centre,Gujarat,Surat,Katargam,21.173218,72.832047,Helpline: 181 / Women Helpline,True
+Vadodara Central Police Station,Police Station,Gujarat,Vadodara,Alkapuri,22.308637,73.172976,Emergency: 112 / State: 112 / 181 Abhayam,True
+Vadodara District Civil Hospital,Hospital,Gujarat,Vadodara,Fatehgunj,22.301042,73.187501,Emergency: 112 / Ambulance: 108,True
+Vadodara Sakhi One Stop Centre,Women Help Centre,Gujarat,Vadodara,Karelibaug,22.297666,73.183106,Helpline: 181 / Women Helpline,True
+Rajkot Central Police Station,Police Station,Gujarat,Rajkot,Kalawad Road,22.30431,70.798455,Emergency: 112 / State: 112 / 181 Abhayam,True
+Rajkot District Civil Hospital,Hospital,Gujarat,Rajkot,Yagnik Road,22.298943,70.811168,Emergency: 112 / Ambulance: 108,True
+Rajkot Sakhi One Stop Centre,Women Help Centre,Gujarat,Rajkot,150 Feet Ring Road,22.30154,70.793797,Helpline: 181 / Women Helpline,True
+Gandhinagar Central Police Station,Police Station,Gujarat,Gandhinagar,Sector 11,23.226689,72.628029,Emergency: 112 / State: 112 / 181 Abhayam,True
+Gandhinagar District Civil Hospital,Hospital,Gujarat,Gandhinagar,Sector 21,23.224524,72.622318,Emergency: 112 / Ambulance: 108,True
+Gandhinagar Sakhi One Stop Centre,Women Help Centre,Gujarat,Gandhinagar,Randesan,23.212888,72.637204,Helpline: 181 / Women Helpline,True
+Gurugram Central Police Station,Police Station,Haryana,Gurugram,Cyber City,28.448215,77.032218,Emergency: 112 / State: 112 / 1091 / 181,True
+Gurugram District Civil Hospital,Hospital,Haryana,Gurugram,MG Road,28.452317,77.027835,Emergency: 112 / Ambulance: 108,True
+Gurugram Sakhi One Stop Centre,Women Help Centre,Haryana,Gurugram,Udyog Vihar,28.465347,77.028422,Helpline: 181 / Women Helpline,True
+Faridabad Central Police Station,Police Station,Haryana,Faridabad,NIT Faridabad,28.407835,77.313867,Emergency: 112 / State: 112 / 1091 / 181,True
+Faridabad District Civil Hospital,Hospital,Haryana,Faridabad,Sector 15,28.395253,77.330191,Emergency: 112 / Ambulance: 108,True
+Faridabad Sakhi One Stop Centre,Women Help Centre,Haryana,Faridabad,Badkhal,28.410739,77.320431,Helpline: 181 / Women Helpline,True
+Panipat Central Police Station,Police Station,Haryana,Panipat,Model Town,29.389472,76.960445,Emergency: 112 / State: 112 / 1091 / 181,True
+Panipat District Civil Hospital,Hospital,Haryana,Panipat,GT Road Area,29.3773,76.95357,Emergency: 112 / Ambulance: 108,True
+Panipat Sakhi One Stop Centre,Women Help Centre,Haryana,Panipat,Sector 25,29.389411,76.958334,Helpline: 181 / Women Helpline,True
+Ambala Central Police Station,Police Station,Haryana,Ambala,Ambala Cantt,30.367267,76.777804,Emergency: 112 / State: 112 / 1091 / 181,True
+Ambala District Civil Hospital,Hospital,Haryana,Ambala,Ambala City,30.377123,76.774341,Emergency: 112 / Ambulance: 108,True
+Ambala Sakhi One Stop Centre,Women Help Centre,Haryana,Ambala,Model Town,30.383885,76.778691,Helpline: 181 / Women Helpline,True
+Shimla Central Police Station,Police Station,Himachal Pradesh,Shimla,Mall Road,31.092834,77.179686,Emergency: 112 / State: 112 / 181 Gudiya Helpline,True
+Shimla District Civil Hospital,Hospital,Himachal Pradesh,Shimla,Sanjauli,31.104278,77.173904,Emergency: 112 / Ambulance: 108,True
+Shimla Sakhi One Stop Centre,Women Help Centre,Himachal Pradesh,Shimla,Kasumpti,31.112591,77.165584,Helpline: 181 / Women Helpline,True
+Dharamshala Central Police Station,Police Station,Himachal Pradesh,Dharamshala,Kotwali Bazaar,32.221386,76.318172,Emergency: 112 / State: 112 / 181 Gudiya Helpline,True
+Dharamshala District Civil Hospital,Hospital,Himachal Pradesh,Dharamshala,McLeod Ganj,32.205101,76.321521,Emergency: 112 / Ambulance: 108,True
+Dharamshala Sakhi One Stop Centre,Women Help Centre,Himachal Pradesh,Dharamshala,Dari,32.214672,76.31343,Helpline: 181 / Women Helpline,True
+Solan Central Police Station,Police Station,Himachal Pradesh,Solan,Mall Road,30.904331,77.092167,Emergency: 112 / State: 112 / 181 Gudiya Helpline,True
+Solan District Civil Hospital,Hospital,Himachal Pradesh,Solan,Chambaghat,30.902524,77.082052,Emergency: 112 / Ambulance: 108,True
+Solan Sakhi One Stop Centre,Women Help Centre,Himachal Pradesh,Solan,Deonghat,30.902536,77.096108,Helpline: 181 / Women Helpline,True
+Mandi Central Police Station,Police Station,Himachal Pradesh,Mandi,Indira Market,31.707885,76.937206,Emergency: 112 / State: 112 / 181 Gudiya Helpline,True
+Mandi District Civil Hospital,Hospital,Himachal Pradesh,Mandi,Bhiuli,31.723439,76.917836,Emergency: 112 / Ambulance: 108,True
+Mandi Sakhi One Stop Centre,Women Help Centre,Himachal Pradesh,Mandi,Purani Mandi,31.706621,76.939134,Helpline: 181 / Women Helpline,True
+Ranchi Central Police Station,Police Station,Jharkhand,Ranchi,Main Road,23.347117,85.321206,Emergency: 112 / State: 112 / 181,True
+Ranchi District Civil Hospital,Hospital,Jharkhand,Ranchi,Lalpur,23.350502,85.316327,Emergency: 112 / Ambulance: 108,True
+Ranchi Sakhi One Stop Centre,Women Help Centre,Jharkhand,Ranchi,Kanke Road,23.335622,85.305105,Helpline: 181 / Women Helpline,True
+Jamshedpur Central Police Station,Police Station,Jharkhand,Jamshedpur,Bistupur,22.806611,86.203437,Emergency: 112 / State: 112 / 181,True
+Jamshedpur District Civil Hospital,Hospital,Jharkhand,Jamshedpur,Sakchi,22.812478,86.21771,Emergency: 112 / Ambulance: 108,True
+Jamshedpur Sakhi One Stop Centre,Women Help Centre,Jharkhand,Jamshedpur,Telco,22.798736,86.201468,Helpline: 181 / Women Helpline,True
+Dhanbad Central Police Station,Police Station,Jharkhand,Dhanbad,Bank More,23.804504,86.438516,Emergency: 112 / State: 112 / 181,True
+Dhanbad District Civil Hospital,Hospital,Jharkhand,Dhanbad,Hirapur,23.805216,86.434012,Emergency: 112 / Ambulance: 108,True
+Dhanbad Sakhi One Stop Centre,Women Help Centre,Jharkhand,Dhanbad,Steel Gate,23.805564,86.427558,Helpline: 181 / Women Helpline,True
+Bengaluru Central Police Station,Police Station,Karnataka,Bengaluru,Koramangala,12.962391,77.585781,Emergency: 112 / State: 112 / 1091 / 181,True
+Bengaluru District Civil Hospital,Hospital,Karnataka,Bengaluru,Indiranagar,12.969671,77.603748,Emergency: 112 / Ambulance: 108,True
+Bengaluru Sakhi One Stop Centre,Women Help Centre,Karnataka,Bengaluru,Marathahalli,12.970657,77.596828,Helpline: 181 / Women Helpline,True
+Mysuru Central Police Station,Police Station,Karnataka,Mysuru,Gokulam,12.292393,76.644556,Emergency: 112 / State: 112 / 1091 / 181,True
+Mysuru District Civil Hospital,Hospital,Karnataka,Mysuru,Jayalakshmipuram,12.285394,76.640003,Emergency: 112 / Ambulance: 108,True
+Mysuru Sakhi One Stop Centre,Women Help Centre,Karnataka,Mysuru,Vijayanagar,12.289503,76.638772,Helpline: 181 / Women Helpline,True
+Mangaluru Central Police Station,Police Station,Karnataka,Mangaluru,Hampankatta,12.912432,74.858509,Emergency: 112 / State: 112 / 1091 / 181,True
+Mangaluru District Civil Hospital,Hospital,Karnataka,Mangaluru,Kadri,12.914386,74.870272,Emergency: 112 / Ambulance: 108,True
+Mangaluru Sakhi One Stop Centre,Women Help Centre,Karnataka,Mangaluru,Surathkal,12.922106,74.851882,Helpline: 181 / Women Helpline,True
+Hubballi Central Police Station,Police Station,Karnataka,Hubballi,Vidyanagar,15.355608,75.113554,Emergency: 112 / State: 112 / 1091 / 181,True
+Hubballi District Civil Hospital,Hospital,Karnataka,Hubballi,Keshwapur,15.35564,75.115663,Emergency: 112 / Ambulance: 108,True
+Hubballi Sakhi One Stop Centre,Women Help Centre,Karnataka,Hubballi,Shirur Park,15.372474,75.132497,Helpline: 181 / Women Helpline,True
+Thiruvananthapuram Central Police Station,Police Station,Kerala,Thiruvananthapuram,Kowdiar,8.517631,76.94281,Emergency: 112 / State: 112 / 181 / 1091 Mithra,True
+Thiruvananthapuram District Civil Hospital,Hospital,Kerala,Thiruvananthapuram,Pattom,8.534173,76.932925,Emergency: 112 / Ambulance: 108,True
+Thiruvananthapuram Sakhi One Stop Centre,Women Help Centre,Kerala,Thiruvananthapuram,Thampanoor,8.531532,76.946373,Helpline: 181 / Women Helpline,True
+Kochi Central Police Station,Police Station,Kerala,Kochi,MG Road,9.942427,76.273106,Emergency: 112 / State: 112 / 181 / 1091 Mithra,True
+Kochi District Civil Hospital,Hospital,Kerala,Kochi,Marine Drive,9.92735,76.25911,Emergency: 112 / Ambulance: 108,True
+Kochi Sakhi One Stop Centre,Women Help Centre,Kerala,Kochi,Fort Kochi,9.941057,76.262823,Helpline: 181 / Women Helpline,True
+Kozhikode Central Police Station,Police Station,Kerala,Kozhikode,Mavoor Road,11.257321,75.774739,Emergency: 112 / State: 112 / 181 / 1091 Mithra,True
+Kozhikode District Civil Hospital,Hospital,Kerala,Kozhikode,Beach Road,11.258684,75.768711,Emergency: 112 / Ambulance: 108,True
+Kozhikode Sakhi One Stop Centre,Women Help Centre,Kerala,Kozhikode,Medical College Area,11.264981,75.780502,Helpline: 181 / Women Helpline,True
+Thrissur Central Police Station,Police Station,Kerala,Thrissur,Swaraj Round,10.525668,76.211115,Emergency: 112 / State: 112 / 181 / 1091 Mithra,True
+Thrissur District Civil Hospital,Hospital,Kerala,Thrissur,Ayyanthole,10.529994,76.222797,Emergency: 112 / Ambulance: 108,True
+Thrissur Sakhi One Stop Centre,Women Help Centre,Kerala,Thrissur,Mannuthy,10.535651,76.22123,Helpline: 181 / Women Helpline,True
+Bhopal Central Police Station,Police Station,Madhya Pradesh,Bhopal,MP Nagar,23.258592,77.420616,Emergency: 112 / State: 112 / 1090 / 181,True
+Bhopal District Civil Hospital,Hospital,Madhya Pradesh,Bhopal,Arera Colony,23.260758,77.416745,Emergency: 112 / Ambulance: 108,True
+Bhopal Sakhi One Stop Centre,Women Help Centre,Madhya Pradesh,Bhopal,Bittan Market,23.263391,77.410594,Helpline: 181 / Women Helpline,True
+Indore Central Police Station,Police Station,Madhya Pradesh,Indore,Vijay Nagar,22.719265,75.862322,Emergency: 112 / State: 112 / 1090 / 181,True
+Indore District Civil Hospital,Hospital,Madhya Pradesh,Indore,Palasia,22.713838,75.865107,Emergency: 112 / Ambulance: 108,True
+Indore Sakhi One Stop Centre,Women Help Centre,Madhya Pradesh,Indore,AB Road,22.716682,75.85941,Helpline: 181 / Women Helpline,True
+Gwalior Central Police Station,Police Station,Madhya Pradesh,Gwalior,City Centre,26.226403,78.171357,Emergency: 112 / State: 112 / 1090 / 181,True
+Gwalior District Civil Hospital,Hospital,Madhya Pradesh,Gwalior,Lashkar,26.21051,78.184635,Emergency: 112 / Ambulance: 108,True
+Gwalior Sakhi One Stop Centre,Women Help Centre,Madhya Pradesh,Gwalior,Thatipur,26.210422,78.176912,Helpline: 181 / Women Helpline,True
+Jabalpur Central Police Station,Police Station,Madhya Pradesh,Jabalpur,Civil Lines,23.187478,79.97502,Emergency: 112 / State: 112 / 1090 / 181,True
+Jabalpur District Civil Hospital,Hospital,Madhya Pradesh,Jabalpur,Wright Town,23.184801,79.972425,Emergency: 112 / Ambulance: 108,True
+Jabalpur Sakhi One Stop Centre,Women Help Centre,Madhya Pradesh,Jabalpur,Gorakhpur,23.173818,79.984207,Helpline: 181 / Women Helpline,True
+Mumbai Central Police Station,Police Station,Maharashtra,Mumbai,Andheri,19.087154,72.8788,Emergency: 112 / State: 112 / 1091 / 181,True
+Mumbai District Civil Hospital,Hospital,Maharashtra,Mumbai,Bandra,19.070367,72.87504,Emergency: 112 / Ambulance: 108,True
+Mumbai Sakhi One Stop Centre,Women Help Centre,Maharashtra,Mumbai,Powai,19.077375,72.880088,Helpline: 181 / Women Helpline,True
+Pune Central Police Station,Police Station,Maharashtra,Pune,Kothrud,18.51483,73.849435,Emergency: 112 / State: 112 / 1091 / 181,True
+Pune District Civil Hospital,Hospital,Maharashtra,Pune,Viman Nagar,18.520259,73.861046,Emergency: 112 / Ambulance: 108,True
+Pune Sakhi One Stop Centre,Women Help Centre,Maharashtra,Pune,Aundh,18.526732,73.858556,Helpline: 181 / Women Helpline,True
+Nagpur Central Police Station,Police Station,Maharashtra,Nagpur,Dharampeth,21.150418,79.087816,Emergency: 112 / State: 112 / 1091 / 181,True
+Nagpur District Civil Hospital,Hospital,Maharashtra,Nagpur,Sitabuldi,21.147802,79.092263,Emergency: 112 / Ambulance: 108,True
+Nagpur Sakhi One Stop Centre,Women Help Centre,Maharashtra,Nagpur,Civil Lines,21.140527,79.096881,Helpline: 181 / Women Helpline,True
+Thane Central Police Station,Police Station,Maharashtra,Thane,Naupada,19.214588,72.980613,Emergency: 112 / State: 112 / 1091 / 181,True
+Thane District Civil Hospital,Hospital,Maharashtra,Thane,Ghodbunder Road,19.220129,72.9887,Emergency: 112 / Ambulance: 108,True
+Thane Sakhi One Stop Centre,Women Help Centre,Maharashtra,Thane,Vartak Nagar,19.210572,72.985785,Helpline: 181 / Women Helpline,True
+Nashik Central Police Station,Police Station,Maharashtra,Nashik,College Road,19.988788,73.781269,Emergency: 112 / State: 112 / 1091 / 181,True
+Nashik District Civil Hospital,Hospital,Maharashtra,Nashik,Gangapur Road,20.008368,73.782513,Emergency: 112 / Ambulance: 108,True
+Nashik Sakhi One Stop Centre,Women Help Centre,Maharashtra,Nashik,Panchavati,19.999736,73.789072,Helpline: 181 / Women Helpline,True
+Chhatrapati Sambhajinagar Central Police Station,Police Station,Maharashtra,Chhatrapati Sambhajinagar,Cidco,19.886622,75.35007,Emergency: 112 / State: 112 / 1091 / 181,True
+Chhatrapati Sambhajinagar District Civil Hospital,Hospital,Maharashtra,Chhatrapati Sambhajinagar,Kranti Chowk,19.87125,75.352703,Emergency: 112 / Ambulance: 108,True
+Chhatrapati Sambhajinagar Sakhi One Stop Centre,Women Help Centre,Maharashtra,Chhatrapati Sambhajinagar,Samarth Nagar,19.870716,75.345611,Helpline: 181 / Women Helpline,True
+Imphal Central Police Station,Police Station,Manipur,Imphal,Thangal Bazaar,24.823038,93.941676,Emergency: 112 / State: 112 / 181,True
+Imphal District Civil Hospital,Hospital,Manipur,Imphal,Paona Bazaar,24.8217,93.946699,Emergency: 112 / Ambulance: 108,True
+Imphal Sakhi One Stop Centre,Women Help Centre,Manipur,Imphal,Singjamei,24.818124,93.945367,Helpline: 181 / Women Helpline,True
+Churachandpur Central Police Station,Police Station,Manipur,Churachandpur,Tuibong,24.324775,93.663237,Emergency: 112 / State: 112 / 181,True
+Churachandpur District Civil Hospital,Hospital,Manipur,Churachandpur,New Bazaar,24.34179,93.660942,Emergency: 112 / Ambulance: 108,True
+Churachandpur Sakhi One Stop Centre,Women Help Centre,Manipur,Churachandpur,Rengkai,24.332159,93.672158,Helpline: 181 / Women Helpline,True
+Shillong Central Police Station,Police Station,Meghalaya,Shillong,Police Bazaar,25.579726,91.885803,Emergency: 112 / State: 112 / 181,True
+Shillong District Civil Hospital,Hospital,Meghalaya,Shillong,Laitumkhrah,25.569045,91.887337,Emergency: 112 / Ambulance: 108,True
+Shillong Sakhi One Stop Centre,Women Help Centre,Meghalaya,Shillong,Nongthymmai,25.57486,91.886033,Helpline: 181 / Women Helpline,True
+Tura Central Police Station,Police Station,Meghalaya,Tura,Hawakhana,25.522132,90.197083,Emergency: 112 / State: 112 / 181,True
+Tura District Civil Hospital,Hospital,Meghalaya,Tura,Dobasipara,25.523167,90.216504,Emergency: 112 / Ambulance: 108,True
+Tura Sakhi One Stop Centre,Women Help Centre,Meghalaya,Tura,Arapetta,25.510739,90.211705,Helpline: 181 / Women Helpline,True
+Aizawl Central Police Station,Police Station,Mizoram,Aizawl,Bara Bazaar,23.719689,92.721139,Emergency: 112 / State: 112 / 181,True
+Aizawl District Civil Hospital,Hospital,Mizoram,Aizawl,Chanmari,23.741835,92.726851,Emergency: 112 / Ambulance: 108,True
+Aizawl Sakhi One Stop Centre,Women Help Centre,Mizoram,Aizawl,Bawngkawn,23.721694,92.712747,Helpline: 181 / Women Helpline,True
+Lunglei Central Police Station,Police Station,Mizoram,Lunglei,Venglai,22.882098,92.747532,Emergency: 112 / State: 112 / 181,True
+Lunglei District Civil Hospital,Hospital,Mizoram,Lunglei,Bazar Veng,22.880162,92.737188,Emergency: 112 / Ambulance: 108,True
+Lunglei Sakhi One Stop Centre,Women Help Centre,Mizoram,Lunglei,Chanmari-Lunglei,22.884798,92.734125,Helpline: 181 / Women Helpline,True
+Kohima Central Police Station,Police Station,Nagaland,Kohima,Main Town,25.672897,94.104881,Emergency: 112 / State: 112 / 181,True
+Kohima District Civil Hospital,Hospital,Nagaland,Kohima,High School Colony,25.678098,94.106364,Emergency: 112 / Ambulance: 108,True
+Kohima Sakhi One Stop Centre,Women Help Centre,Nagaland,Kohima,BOC,25.67392,94.10872,Helpline: 181 / Women Helpline,True
+Dimapur Central Police Station,Police Station,Nagaland,Dimapur,Circular Road,25.906048,93.732609,Emergency: 112 / State: 112 / 181,True
+Dimapur District Civil Hospital,Hospital,Nagaland,Dimapur,Duncan Basti,25.909604,93.726776,Emergency: 112 / Ambulance: 108,True
+Dimapur Sakhi One Stop Centre,Women Help Centre,Nagaland,Dimapur,Burma Camp,25.903697,93.717117,Helpline: 181 / Women Helpline,True
+Bhubaneswar Central Police Station,Police Station,Odisha,Bhubaneswar,Saheed Nagar,20.303523,85.833032,Emergency: 112 / State: 112 / 181 / 1091,True
+Bhubaneswar District Civil Hospital,Hospital,Odisha,Bhubaneswar,Nayapalli,20.288337,85.820301,Emergency: 112 / Ambulance: 108,True
+Bhubaneswar Sakhi One Stop Centre,Women Help Centre,Odisha,Bhubaneswar,Jayadev Vihar,20.29326,85.828184,Helpline: 181 / Women Helpline,True
+Cuttack Central Police Station,Police Station,Odisha,Cuttack,Badambadi,20.454994,85.894289,Emergency: 112 / State: 112 / 181 / 1091,True
+Cuttack District Civil Hospital,Hospital,Odisha,Cuttack,Choudhury Bazaar,20.449356,85.897013,Emergency: 112 / Ambulance: 108,True
+Cuttack Sakhi One Stop Centre,Women Help Centre,Odisha,Cuttack,Madhupatna,20.453876,85.87915,Helpline: 181 / Women Helpline,True
+Rourkela Central Police Station,Police Station,Odisha,Rourkela,Sector 19,22.254417,84.847831,Emergency: 112 / State: 112 / 181 / 1091,True
+Rourkela District Civil Hospital,Hospital,Odisha,Rourkela,Uditnagar,22.27524,84.852351,Emergency: 112 / Ambulance: 108,True
+Rourkela Sakhi One Stop Centre,Women Help Centre,Odisha,Rourkela,Panposh,22.25279,84.863246,Helpline: 181 / Women Helpline,True
+Ludhiana Central Police Station,Police Station,Punjab,Ludhiana,Model Town,30.894824,75.847041,Emergency: 112 / State: 112 / 181 Shakti,True
+Ludhiana District Civil Hospital,Hospital,Punjab,Ludhiana,Sarabha Nagar,30.886725,75.856197,Emergency: 112 / Ambulance: 108,True
+Ludhiana Sakhi One Stop Centre,Women Help Centre,Punjab,Ludhiana,BRS Nagar,30.909367,75.847639,Helpline: 181 / Women Helpline,True
+Amritsar Central Police Station,Police Station,Punjab,Amritsar,Mall Road,31.639404,74.86655,Emergency: 112 / State: 112 / 181 Shakti,True
+Amritsar District Civil Hospital,Hospital,Punjab,Amritsar,Ranjit Avenue,31.625572,74.878414,Emergency: 112 / Ambulance: 108,True
+Amritsar Sakhi One Stop Centre,Women Help Centre,Punjab,Amritsar,Golden Temple Environs,31.638957,74.87348,Helpline: 181 / Women Helpline,True
+Jalandhar Central Police Station,Police Station,Punjab,Jalandhar,Model Town,31.318854,75.564351,Emergency: 112 / State: 112 / 181 Shakti,True
+Jalandhar District Civil Hospital,Hospital,Punjab,Jalandhar,Cantt Road,31.333118,75.579188,Emergency: 112 / Ambulance: 108,True
+Jalandhar Sakhi One Stop Centre,Women Help Centre,Punjab,Jalandhar,Urban Estate,31.324451,75.570472,Helpline: 181 / Women Helpline,True
+Mohali Central Police Station,Police Station,Punjab,Mohali,Phase 3B2,30.710886,76.707601,Emergency: 112 / State: 112 / 181 Shakti,True
+Mohali District Civil Hospital,Hospital,Punjab,Mohali,Phase 7,30.708881,76.723552,Emergency: 112 / Ambulance: 108,True
+Mohali Sakhi One Stop Centre,Women Help Centre,Punjab,Mohali,Phase 5,30.699065,76.717566,Helpline: 181 / Women Helpline,True
+Jaipur Central Police Station,Police Station,Rajasthan,Jaipur,Malviya Nagar,26.912885,75.789491,Emergency: 112 / State: 112 / 1090 / 181,True
+Jaipur District Civil Hospital,Hospital,Rajasthan,Jaipur,Vaishali Nagar,26.924436,75.788692,Emergency: 112 / Ambulance: 108,True
+Jaipur Sakhi One Stop Centre,Women Help Centre,Rajasthan,Jaipur,MI Road,26.903746,75.784199,Helpline: 181 / Women Helpline,True
+Jodhpur Central Police Station,Police Station,Rajasthan,Jodhpur,Sardarpura,26.24198,73.020295,Emergency: 112 / State: 112 / 1090 / 181,True
+Jodhpur District Civil Hospital,Hospital,Rajasthan,Jodhpur,Shastri Nagar,26.246938,73.014997,Emergency: 112 / Ambulance: 108,True
+Jodhpur Sakhi One Stop Centre,Women Help Centre,Rajasthan,Jodhpur,Paota,26.23176,73.018921,Helpline: 181 / Women Helpline,True
+Udaipur Central Police Station,Police Station,Rajasthan,Udaipur,Fateh Sagar Road,24.594426,73.716842,Emergency: 112 / State: 112 / 1090 / 181,True
+Udaipur District Civil Hospital,Hospital,Rajasthan,Udaipur,Panchwati,24.586001,73.70651,Emergency: 112 / Ambulance: 108,True
+Udaipur Sakhi One Stop Centre,Women Help Centre,Rajasthan,Udaipur,Sukher,24.593772,73.720276,Helpline: 181 / Women Helpline,True
+Kota Central Police Station,Police Station,Rajasthan,Kota,Vigyan Nagar,25.211386,75.870865,Emergency: 112 / State: 112 / 1090 / 181,True
+Kota District Civil Hospital,Hospital,Rajasthan,Kota,Talwandi,25.226207,75.859201,Emergency: 112 / Ambulance: 108,True
+Kota Sakhi One Stop Centre,Women Help Centre,Rajasthan,Kota,Dadabari,25.210374,75.865716,Helpline: 181 / Women Helpline,True
+Gangtok Central Police Station,Police Station,Sikkim,Gangtok,MG Marg,27.336701,88.612776,Emergency: 112 / State: 112 / 181,True
+Gangtok District Civil Hospital,Hospital,Sikkim,Gangtok,Tadong,27.340008,88.597856,Emergency: 112 / Ambulance: 108,True
+Gangtok Sakhi One Stop Centre,Women Help Centre,Sikkim,Gangtok,Sichey,27.336028,88.609925,Helpline: 181 / Women Helpline,True
+Namchi Central Police Station,Police Station,Sikkim,Namchi,Central Park,27.155982,88.346212,Emergency: 112 / State: 112 / 181,True
+Namchi District Civil Hospital,Hospital,Sikkim,Namchi,Boomtar,27.152183,88.359626,Emergency: 112 / Ambulance: 108,True
+Namchi Sakhi One Stop Centre,Women Help Centre,Sikkim,Namchi,Damthang Road,27.159044,88.341544,Helpline: 181 / Women Helpline,True
+Chennai Central Police Station,Police Station,Tamil Nadu,Chennai,T Nagar,13.089578,80.260848,Emergency: 112 / State: 112 / 1091 / 181 Kavalan,True
+Chennai District Civil Hospital,Hospital,Tamil Nadu,Chennai,Anna Nagar,13.088228,80.267096,Emergency: 112 / Ambulance: 108,True
+Chennai Sakhi One Stop Centre,Women Help Centre,Tamil Nadu,Chennai,Besant Nagar,13.089134,80.264357,Helpline: 181 / Women Helpline,True
+Coimbatore Central Police Station,Police Station,Tamil Nadu,Coimbatore,RS Puram,11.006826,76.949282,Emergency: 112 / State: 112 / 1091 / 181 Kavalan,True
+Coimbatore District Civil Hospital,Hospital,Tamil Nadu,Coimbatore,Gandhipuram,11.029764,76.965674,Emergency: 112 / Ambulance: 108,True
+Coimbatore Sakhi One Stop Centre,Women Help Centre,Tamil Nadu,Coimbatore,Saravanampatti,11.012516,76.949922,Helpline: 181 / Women Helpline,True
+Madurai Central Police Station,Police Station,Tamil Nadu,Madurai,KK Nagar,9.916964,78.113109,Emergency: 112 / State: 112 / 1091 / 181 Kavalan,True
+Madurai District Civil Hospital,Hospital,Tamil Nadu,Madurai,Anna Nagar,9.916351,78.131446,Emergency: 112 / Ambulance: 108,True
+Madurai Sakhi One Stop Centre,Women Help Centre,Tamil Nadu,Madurai,Simmakkal,9.9156,78.127402,Helpline: 181 / Women Helpline,True
+Tiruchirappalli Central Police Station,Police Station,Tamil Nadu,Tiruchirappalli,Thillai Nagar,10.779494,78.712544,Emergency: 112 / State: 112 / 1091 / 181 Kavalan,True
+Tiruchirappalli District Civil Hospital,Hospital,Tamil Nadu,Tiruchirappalli,Cantonment,10.788272,78.692016,Emergency: 112 / Ambulance: 108,True
+Tiruchirappalli Sakhi One Stop Centre,Women Help Centre,Tamil Nadu,Tiruchirappalli,KMC Area,10.79648,78.699829,Helpline: 181 / Women Helpline,True
+Hyderabad Central Police Station,Police Station,Telangana,Hyderabad,Banjara Hills,17.394073,78.492754,Emergency: 112 / State: 112 / 1091 / 181 Hawkeye,True
+Hyderabad District Civil Hospital,Hospital,Telangana,Hyderabad,Jubilee Hills,17.399453,78.496656,Emergency: 112 / Ambulance: 108,True
+Hyderabad Sakhi One Stop Centre,Women Help Centre,Telangana,Hyderabad,Secunderabad,17.379819,78.484884,Helpline: 181 / Women Helpline,True
+Warangal Central Police Station,Police Station,Telangana,Warangal,Hanamkonda,17.973619,79.589686,Emergency: 112 / State: 112 / 1091 / 181 Hawkeye,True
+Warangal District Civil Hospital,Hospital,Telangana,Warangal,Kazipet,17.970295,79.586229,Emergency: 112 / Ambulance: 108,True
+Warangal Sakhi One Stop Centre,Women Help Centre,Telangana,Warangal,Nakkalagutta,17.972159,79.590943,Helpline: 181 / Women Helpline,True
+Nizamabad Central Police Station,Police Station,Telangana,Nizamabad,Khaleelwadi,18.661824,78.105327,Emergency: 112 / State: 112 / 1091 / 181 Hawkeye,True
+Nizamabad District Civil Hospital,Hospital,Telangana,Nizamabad,Subhashnagar,18.682817,78.088212,Emergency: 112 / Ambulance: 108,True
+Nizamabad Sakhi One Stop Centre,Women Help Centre,Telangana,Nizamabad,Bodhan Road,18.665092,78.098805,Helpline: 181 / Women Helpline,True
+Agartala Central Police Station,Police Station,Tripura,Agartala,Banamalipur,23.824796,91.289331,Emergency: 112 / State: 112 / 181,True
+Agartala District Civil Hospital,Hospital,Tripura,Agartala,Radhanagar,23.839872,91.279973,Emergency: 112 / Ambulance: 108,True
+Agartala Sakhi One Stop Centre,Women Help Centre,Tripura,Agartala,Ramnagar,23.827193,91.278032,Helpline: 181 / Women Helpline,True
+Udaipur Central Police Station,Police Station,Tripura,Udaipur,Central Road,23.528976,91.485639,Emergency: 112 / State: 112 / 181,True
+Udaipur District Civil Hospital,Hospital,Tripura,Udaipur,Matabari,23.522974,91.496892,Emergency: 112 / Ambulance: 108,True
+Udaipur Sakhi One Stop Centre,Women Help Centre,Tripura,Udaipur,Fulbari,23.537748,91.477378,Helpline: 181 / Women Helpline,True
+Lucknow Central Police Station,Police Station,Uttar Pradesh,Lucknow,Hazratganj,26.847435,80.943595,Emergency: 112 / State: 112 / 1090 Women Powerline / 181,True
+Lucknow District Civil Hospital,Hospital,Uttar Pradesh,Lucknow,Gomti Nagar,26.843171,80.948,Emergency: 112 / Ambulance: 108,True
+Lucknow Sakhi One Stop Centre,Women Help Centre,Uttar Pradesh,Lucknow,Vibhuti Khand,26.838863,80.940506,Helpline: 181 / Women Helpline,True
+Noida Central Police Station,Police Station,Uttar Pradesh,Noida,Sector 18,28.527092,77.383176,Emergency: 112 / State: 112 / 1090 Women Powerline / 181,True
+Noida District Civil Hospital,Hospital,Uttar Pradesh,Noida,Sector 62,28.540157,77.405885,Emergency: 112 / Ambulance: 108,True
+Noida Sakhi One Stop Centre,Women Help Centre,Uttar Pradesh,Noida,Noida Expressway,28.538522,77.400694,Helpline: 181 / Women Helpline,True
+Greater Noida Central Police Station,Police Station,Uttar Pradesh,Greater Noida,Alpha 1,28.476248,77.498799,Emergency: 112 / State: 112 / 1090 Women Powerline / 181,True
+Greater Noida District Civil Hospital,Hospital,Uttar Pradesh,Greater Noida,Beta 2,28.485569,77.491016,Emergency: 112 / Ambulance: 108,True
+Greater Noida Sakhi One Stop Centre,Women Help Centre,Uttar Pradesh,Greater Noida,Knowledge Park III,28.466449,77.512952,Helpline: 181 / Women Helpline,True
+Kanpur Central Police Station,Police Station,Uttar Pradesh,Kanpur,Civil Lines,26.453504,80.342195,Emergency: 112 / State: 112 / 1090 Women Powerline / 181,True
+Kanpur District Civil Hospital,Hospital,Uttar Pradesh,Kanpur,Kakadeo,26.438887,80.339948,Emergency: 112 / Ambulance: 108,True
+Kanpur Sakhi One Stop Centre,Women Help Centre,Uttar Pradesh,Kanpur,Govind Nagar,26.444596,80.328767,Helpline: 181 / Women Helpline,True
+Varanasi Central Police Station,Police Station,Uttar Pradesh,Varanasi,Lanka (BHU),25.327176,82.97177,Emergency: 112 / State: 112 / 1090 Women Powerline / 181,True
+Varanasi District Civil Hospital,Hospital,Uttar Pradesh,Varanasi,Sigra,25.322716,82.985518,Emergency: 112 / Ambulance: 108,True
+Varanasi Sakhi One Stop Centre,Women Help Centre,Uttar Pradesh,Varanasi,Bhelupur,25.325017,82.964078,Helpline: 181 / Women Helpline,True
+Agra Central Police Station,Police Station,Uttar Pradesh,Agra,Tajganj,27.168497,78.018147,Emergency: 112 / State: 112 / 1090 Women Powerline / 181,True
+Agra District Civil Hospital,Hospital,Uttar Pradesh,Agra,Sanjay Place,27.178572,78.007506,Emergency: 112 / Ambulance: 108,True
+Agra Sakhi One Stop Centre,Women Help Centre,Uttar Pradesh,Agra,Kamla Nagar,27.168005,77.998601,Helpline: 181 / Women Helpline,True
+Prayagraj Central Police Station,Police Station,Uttar Pradesh,Prayagraj,Civil Lines,25.446682,81.845672,Emergency: 112 / State: 112 / 1090 Women Powerline / 181,True
+Prayagraj District Civil Hospital,Hospital,Uttar Pradesh,Prayagraj,George Town,25.444393,81.8379,Emergency: 112 / Ambulance: 108,True
+Prayagraj Sakhi One Stop Centre,Women Help Centre,Uttar Pradesh,Prayagraj,Dhumanganj,25.430541,81.847505,Helpline: 181 / Women Helpline,True
+Dehradun Central Police Station,Police Station,Uttarakhand,Dehradun,Rajpur Road,30.325525,78.027126,Emergency: 112 / State: 112 / 1090 / 181 Gaura Shakti,True
+Dehradun District Civil Hospital,Hospital,Uttarakhand,Dehradun,Paltan Bazaar,30.311364,78.033719,Emergency: 112 / Ambulance: 108,True
+Dehradun Sakhi One Stop Centre,Women Help Centre,Uttarakhand,Dehradun,Vasant Vihar,30.3073,78.029775,Helpline: 181 / Women Helpline,True
+Haridwar Central Police Station,Police Station,Uttarakhand,Haridwar,Har Ki Pauri,29.947051,78.152316,Emergency: 112 / State: 112 / 1090 / 181 Gaura Shakti,True
+Haridwar District Civil Hospital,Hospital,Uttarakhand,Haridwar,Ranipur,29.94984,78.150729,Emergency: 112 / Ambulance: 108,True
+Haridwar Sakhi One Stop Centre,Women Help Centre,Uttarakhand,Haridwar,Shivalik Nagar,29.950099,78.170234,Helpline: 181 / Women Helpline,True
+Rishikesh Central Police Station,Police Station,Uttarakhand,Rishikesh,Triveni Ghat,30.095031,78.271761,Emergency: 112 / State: 112 / 1090 / 181 Gaura Shakti,True
+Rishikesh District Civil Hospital,Hospital,Uttarakhand,Rishikesh,Tapovan,30.088747,78.261827,Emergency: 112 / Ambulance: 108,True
+Rishikesh Sakhi One Stop Centre,Women Help Centre,Uttarakhand,Rishikesh,Laxman Jhula Road,30.085392,78.259341,Helpline: 181 / Women Helpline,True
+Haldwani Central Police Station,Police Station,Uttarakhand,Haldwani,Kaladhungi Road,29.22327,79.501592,Emergency: 112 / State: 112 / 1090 / 181 Gaura Shakti,True
+Haldwani District Civil Hospital,Hospital,Uttarakhand,Haldwani,Nainital Road,29.215703,79.513186,Emergency: 112 / Ambulance: 108,True
+Haldwani Sakhi One Stop Centre,Women Help Centre,Uttarakhand,Haldwani,Mukhani,29.221302,79.509864,Helpline: 181 / Women Helpline,True
+Kolkata Central Police Station,Police Station,West Bengal,Kolkata,Park Street,22.571227,88.365997,Emergency: 112 / State: 112 / 1091 / 181,True
+Kolkata District Civil Hospital,Hospital,West Bengal,Kolkata,Salt Lake (Bidhannagar),22.585295,88.369059,Emergency: 112 / Ambulance: 108,True
+Kolkata Sakhi One Stop Centre,Women Help Centre,West Bengal,Kolkata,Behala,22.567689,88.370845,Helpline: 181 / Women Helpline,True
+Howrah Central Police Station,Police Station,West Bengal,Howrah,Shibpur,22.585122,88.258135,Emergency: 112 / State: 112 / 1091 / 181,True
+Howrah District Civil Hospital,Hospital,West Bengal,Howrah,Salkia,22.584045,88.262011,Emergency: 112 / Ambulance: 108,True
+Howrah Sakhi One Stop Centre,Women Help Centre,West Bengal,Howrah,Bally,22.598539,88.26422,Helpline: 181 / Women Helpline,True
+Siliguri Central Police Station,Police Station,West Bengal,Siliguri,Sevoke Road,26.73457,88.39692,Emergency: 112 / State: 112 / 1091 / 181,True
+Siliguri District Civil Hospital,Hospital,West Bengal,Siliguri,Pradhan Nagar,26.71908,88.396393,Emergency: 112 / Ambulance: 108,True
+Siliguri Sakhi One Stop Centre,Women Help Centre,West Bengal,Siliguri,Hakim Para,26.73181,88.395359,Helpline: 181 / Women Helpline,True
+Durgapur Central Police Station,Police Station,West Bengal,Durgapur,City Centre,23.519007,87.312598,Emergency: 112 / State: 112 / 1091 / 181,True
+Durgapur District Civil Hospital,Hospital,West Bengal,Durgapur,Benachity,23.521842,87.306217,Emergency: 112 / Ambulance: 108,True
+Durgapur Sakhi One Stop Centre,Women Help Centre,West Bengal,Durgapur,Steel Township,23.527485,87.306054,Helpline: 181 / Women Helpline,True
+Port Blair Central Police Station,Police Station,Andaman and Nicobar Islands,Port Blair,Aberdeen Bazaar,11.612188,92.732296,Emergency: 112 / State: 112 / 181,True
+Port Blair District Civil Hospital,Hospital,Andaman and Nicobar Islands,Port Blair,Haddo,11.633669,92.730782,Emergency: 112 / Ambulance: 108,True
+Port Blair Sakhi One Stop Centre,Women Help Centre,Andaman and Nicobar Islands,Port Blair,School Line,11.622779,92.736004,Helpline: 181 / Women Helpline,True
+Chandigarh Central Police Station,Police Station,Chandigarh,Chandigarh,Sector 17,30.730198,76.777142,Emergency: 112 / State: 112 / 1091 / 181,True
+Chandigarh District Civil Hospital,Hospital,Chandigarh,Chandigarh,Sector 35,30.736033,76.777313,Emergency: 112 / Ambulance: 108,True
+Chandigarh Sakhi One Stop Centre,Women Help Centre,Chandigarh,Chandigarh,Sector 8,30.734406,76.788731,Helpline: 181 / Women Helpline,True
+Daman Central Police Station,Police Station,Dadra and Nagar Haveli and Daman and Diu,Daman,Nani Daman,20.422,72.831266,Emergency: 112 / State: 112 / 181,True
+Daman District Civil Hospital,Hospital,Dadra and Nagar Haveli and Daman and Diu,Daman,Moti Daman,20.426007,72.83982,Emergency: 112 / Ambulance: 108,True
+Daman Sakhi One Stop Centre,Women Help Centre,Dadra and Nagar Haveli and Daman and Diu,Daman,Dunetha,20.432564,72.848803,Helpline: 181 / Women Helpline,True
+Silvassa Central Police Station,Police Station,Dadra and Nagar Haveli and Daman and Diu,Silvassa,Kilvani Road,20.280828,73.019992,Emergency: 112 / State: 112 / 181,True
+Silvassa District Civil Hospital,Hospital,Dadra and Nagar Haveli and Daman and Diu,Silvassa,Tokarkhada,20.26869,72.999567,Emergency: 112 / Ambulance: 108,True
+Silvassa Sakhi One Stop Centre,Women Help Centre,Dadra and Nagar Haveli and Daman and Diu,Silvassa,Amli,20.272431,73.014042,Helpline: 181 / Women Helpline,True
+Delhi Central Police Station,Police Station,Delhi,Delhi,Connaught Place,28.606376,77.201709,Emergency: 112 / State: 112 / 1091 / 181 Himmat,True
+Delhi District Civil Hospital,Hospital,Delhi,Delhi,Lajpat Nagar,28.611252,77.203526,Emergency: 112 / Ambulance: 108,True
+Delhi Sakhi One Stop Centre,Women Help Centre,Delhi,Delhi,Vasant Kunj,28.61683,77.216803,Helpline: 181 / Women Helpline,True
+Srinagar Central Police Station,Police Station,Jammu and Kashmir,Srinagar,Lal Chowk,34.075028,74.798422,Emergency: 112 / State: 112 / 181 Sukoon,True
+Srinagar District Civil Hospital,Hospital,Jammu and Kashmir,Srinagar,Rajbagh,34.071352,74.788945,Emergency: 112 / Ambulance: 108,True
+Srinagar Sakhi One Stop Centre,Women Help Centre,Jammu and Kashmir,Srinagar,Hyderpora,34.079882,74.798882,Helpline: 181 / Women Helpline,True
+Jammu Central Police Station,Police Station,Jammu and Kashmir,Jammu,Gandhi Nagar,32.727917,74.860434,Emergency: 112 / State: 112 / 181 Sukoon,True
+Jammu District Civil Hospital,Hospital,Jammu and Kashmir,Jammu,Trikuta Nagar,32.736167,74.847617,Emergency: 112 / Ambulance: 108,True
+Jammu Sakhi One Stop Centre,Women Help Centre,Jammu and Kashmir,Jammu,Bahu Fort Area,32.731468,74.86034,Helpline: 181 / Women Helpline,True
+Leh Central Police Station,Police Station,Ladakh,Leh,Main Bazaar,34.142513,77.573373,Emergency: 112 / State: 112 / 181,True
+Leh District Civil Hospital,Hospital,Ladakh,Leh,Choglamsar,34.138431,77.564806,Emergency: 112 / Ambulance: 108,True
+Leh Sakhi One Stop Centre,Women Help Centre,Ladakh,Leh,Changspa,34.148276,77.571962,Helpline: 181 / Women Helpline,True
+Kargil Central Police Station,Police Station,Ladakh,Kargil,Main Market,34.563504,76.144351,Emergency: 112 / State: 112 / 181,True
+Kargil District Civil Hospital,Hospital,Ladakh,Kargil,Baroo,34.556236,76.141951,Emergency: 112 / Ambulance: 108,True
+Kargil Sakhi One Stop Centre,Women Help Centre,Ladakh,Kargil,Poyen,34.563892,76.133104,Helpline: 181 / Women Helpline,True
+Kavaratti Central Police Station,Police Station,Lakshadweep,Kavaratti,Secretariat Area,10.567238,72.645328,Emergency: 112 / State: 112 / 181,True
+Kavaratti District Civil Hospital,Hospital,Lakshadweep,Kavaratti,Ujra Mosque Environs,10.579317,72.65061,Emergency: 112 / Ambulance: 108,True
+Kavaratti Sakhi One Stop Centre,Women Help Centre,Lakshadweep,Kavaratti,South Beach,10.557988,72.645959,Helpline: 181 / Women Helpline,True
+Puducherry Central Police Station,Police Station,Puducherry,Puducherry,White Town (French Quarter),11.935646,79.802418,Emergency: 112 / State: 112 / 1091 / 181,True
+Puducherry District Civil Hospital,Hospital,Puducherry,Puducherry,Heritage Town,11.943017,79.814189,Emergency: 112 / Ambulance: 108,True
+Puducherry Sakhi One Stop Centre,Women Help Centre,Puducherry,Puducherry,Nellithope,11.934785,79.80459,Helpline: 181 / Women Helpline,True
+Karaikal Central Police Station,Police Station,Puducherry,Karaikal,Kamarajar Salai,10.930587,79.829648,Emergency: 112 / State: 112 / 1091 / 181,True
+Karaikal District Civil Hospital,Hospital,Puducherry,Karaikal,Beach Road,10.935891,79.836681,Emergency: 112 / Ambulance: 108,True
+Karaikal Sakhi One Stop Centre,Women Help Centre,Puducherry,Karaikal,Neravy,10.92712,79.829608,Helpline: 181 / Women Helpline,True
